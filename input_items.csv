@@ -1,0 +1,11 @@
+item_id, price(EUR), pieces_per_bundle, limit_per_bundle, description
+1, 97.47, 4, 0, TriangleAmazonPrize
+1, 194.95, 9, 0, TriangleAmazonPrize
+1, 292.43, 15, 0, TriangleAmazonPrize
+1, 58.50, 3, 0, TriangleAmazonPrize
+2, 129.99, 5, 0, HexagonOfficialWebsite
+2, 199.99, 9, 0, HexagonOfficialWebsite
+2, 299.99, 15, 0, HexagonOfficialWebsite
+2, 59.99, 3, 0, HexagonOfficialWebsite
+3, 99.99, 5, 0, MiniOfficialWebsite
+3, 59.99, 3, 0, MiniOfficialWebsite
